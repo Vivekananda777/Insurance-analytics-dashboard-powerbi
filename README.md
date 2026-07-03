@@ -186,9 +186,6 @@ Insurance-Analytics-Dashboard/
 ├── Dataset/
 │   └── InsuranceData.csv
 │
-├── Documentation/
-│   └── Insurance_Analytics_Report.pdf
-│
 ├── Screenshots/
 │   └── Dashboard_Overview.png
 └── README.md
